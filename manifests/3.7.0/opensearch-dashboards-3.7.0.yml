@@ -53,8 +53,8 @@ components:
     repository: https://github.com/opensearch-project/security-analytics-dashboards-plugin.git
     ref: tags/3.7.0.0
   - name: securityDashboards
-    repository: https://github.com/opensearch-project/security-dashboards-plugin.git
-    ref: tags/3.7.0.0
+    repository: https://github.com/tomkdgun/security-dashboards-plugin.git
+    ref: mac_37_build
   - name: searchRelevanceDashboards
     repository: https://github.com/opensearch-project/dashboards-search-relevance.git
     ref: tags/3.7.0.0
